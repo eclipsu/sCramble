@@ -1,0 +1,23 @@
+salad
+sandwich
+bread
+steak
+tuna steak
+fish
+shrimp
+rice
+spaghetti
+pizza
+hamburger
+eggs
+cheese
+sausages
+apple juice
+grape juice
+milk
+candy
+cookie
+pie
+cake
+cupcake
+
